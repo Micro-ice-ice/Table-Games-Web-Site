@@ -1,0 +1,307 @@
+[
+  {
+    "date": {
+      "day": 18,
+      "month": 3,
+      "year": 2023,
+      "peopleCount": 10
+    },
+    "notes": [
+      {
+        "game": "Spot it",
+        "peopleCount": 6
+      },
+      {
+        "game": "Spot it",
+        "peopleCount": 6
+      },
+      {
+        "game": "Catan cities and Knights",
+        "peopleCount": 3
+      },
+      {
+        "game": "Ticket to ride",
+        "peopleCount": 4
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 8
+      },
+      {
+        "game": "Ekivoki",
+        "peopleCount": 6
+      },
+      {
+        "game": "Bang",
+        "peopleCount": 6
+      },
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      }
+
+    ]
+  },
+  {
+    "date": {
+      "day": 1,
+      "month": 4,
+      "year": 2023,
+      "peopleCount": 10
+    },
+    "notes": [
+      {
+        "game": "Spot it",
+        "peopleCount": 3
+      },
+      {
+        "game": "Spot it",
+        "peopleCount": 4
+      },
+      {
+        "game": "Spot it",
+        "peopleCount": 6
+      },
+      {
+        "game": "Carcassonne",
+        "peopleCount": 8
+      },
+      {
+        "game": "Ekivoki",
+        "peopleCount": 5
+      },
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      },
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      }
+
+    ]
+  },
+  {
+    "date": {
+      "day": 8,
+      "month": 4,
+      "year": 2023,
+      "peopleCount": 17
+    },
+    "notes": [
+      {
+        "game": "Mafia",
+        "peopleCount": 10
+      },
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      },
+      {
+        "game": "Crime Scene",
+        "peopleCount": 2
+      },
+      {
+        "game": "Carcassonne",
+        "peopleCount": 4
+      },
+      {
+        "game": "Ekivoki",
+        "peopleCount": 5
+      },
+      {
+        "game": "Ticket to ride",
+        "peopleCount": 4
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 6
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 4
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 4
+      },
+      {
+        "game": "Catan",
+        "peopleCount": 3
+      }
+
+    ]
+  },
+  {
+    "date": {
+      "day": 15,
+      "month": 4,
+      "year": 2023,
+      "peopleCount": 10
+    },
+    "notes": [
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      },
+      {
+        "game": "Ekivoki",
+        "peopleCount": 5
+      },
+      {
+        "game": "Ticket to ride",
+        "peopleCount": 5
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 6
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 6
+      }
+    ]
+  },
+  {
+    "date": {
+      "day": 13,
+      "month": 5,
+      "year": 2023,
+      "peopleCount": 15
+    },
+    "notes": [
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      },
+      {
+        "game": "Munchkin",
+        "peopleCount": 6
+      },
+      {
+        "game": "Code names",
+        "peopleCount": 3
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 3
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 3
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 3
+      },
+      {
+        "game": "Ticket to ride",
+        "peopleCount": 4
+      },
+      {
+        "game": "Monopoly",
+        "peopleCount": 3
+      },
+      {
+        "game": "Carcassonne",
+        "peopleCount": 5
+      }
+    ]
+  },
+  {
+    "date": {
+      "day": 20,
+      "month": 5,
+      "year": 2023,
+      "peopleCount": 7
+    },
+    "notes": [
+      {
+        "game": "Bang",
+        "peopleCount": 7
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 3
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 3
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 3
+      },
+      {
+        "game": "Loto",
+        "peopleCount": 7
+      },
+      {
+        "game": "Loto",
+        "peopleCount": 7
+      },
+      {
+        "game": "Carcassonne",
+        "peopleCount": 3
+      }
+    ]
+  },
+  {
+    "date": {
+      "day": 3,
+      "month": 6,
+      "year": 2023,
+      "peopleCount": 20
+    },
+    "notes": [
+      {
+        "game": "Spot it",
+        "peopleCount": 5
+      },
+      {
+        "game": "Spot it",
+        "peopleCount": 5
+      },
+      {
+        "game": "Spot it",
+        "peopleCount": 5
+      },
+      {
+        "game": "Bang",
+        "peopleCount": 4
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 8
+      },
+      {
+        "game": "Uno flip",
+        "peopleCount": 8
+      },
+      {
+        "game": "Erudite",
+        "peopleCount": 2
+      },
+      {
+        "game": "Erudite",
+        "peopleCount": 5
+      },
+      {
+        "game": "Loto",
+        "peopleCount": 7
+      },
+      {
+        "game": "Carcassonne",
+        "peopleCount": 3
+      },
+      {
+        "game": " Lifeboat",
+        "peopleCount": 6
+      },
+      {
+        "game": " Lifeboat",
+        "peopleCount": 7
+      }
+    ]
+  }
+]
