@@ -1,0 +1,7 @@
+<div class="py-4 px-6 border rounded flex items-center flex-col mb-2 h-[40rem]">
+  <img [src]="game?.img" class="mb-2 h-2/5 object-cover">
+  <h1 class="mb-2 text-center">{{game?.name}}</h1>
+  <p>{{game?.shortDescription}}</p>
+  <p>Количество игроков: <span class="font-bold"></span></p>
+  <p>Время игры: <span class="font-bold">{{game?.averageTime}} минут</span></p>
+</div>
