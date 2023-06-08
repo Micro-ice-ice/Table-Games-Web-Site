@@ -13,19 +13,19 @@ export default class Game {
 
   private static id = 0;
 
-  id: number;
+  public id: number;
 
-  name: string;
+  public name: string;
 
-  averageTime: number;
+  public averageTime: number;
 
-  shortDescription: string;
+  public shortDescription: string;
 
-  fullDescription: string;
+  public fullDescription: string;
 
-  rules: string;
+  public rules: string;
 
-  img: string;
+  public img: string;
 
   notes: MeetingNote[] = [];
 
