@@ -3,12 +3,12 @@
   <h1 class="mb-2 text-center text-xl font-medium">{{game?.alternativeName}}</h1>
   <p class="h-2/5 indent-4">{{game?.shortDescription}}</p>
   <div class="mb-2 flex flex-row justify-center items-center h-[5%]">
-    <img src="https://cdn-icons-png.flaticon.com/512/23/23068.png" class="mr-1 object-cover h-full">
+    <img src="https://cdn-icons-png.flaticon.com/512/23/23068.png" class="mr-1 object-cover h-full" alt="Количество игроков">
     <span class="font-bold">{{game?.playerCount?.min}}-{{game?.playerCount?.max}}</span>
   </div>
   <div class="mb-2 flex justify-center items-center h-[5%]">
     <img src="https://vseobogrevateli.ru/upload/medialibrary/578/5788e86355eeb231121726b0ca98ac57.png" class="mr-1 h-full object-cover">
     <span class="font-bold">{{game?.averageTime}} минут</span>
   </div>
-  <button class="h-[10%]">Подробнее</button>
+  <button class="h-[10%]" [routerLink]="'/games/' + game?.name" >Подробнее</button>
 </div>

@@ -97,6 +97,17 @@
     "rules": "https://www.igroved.ru/rules/rules_ekivoki_rus.pdf",
     "img": "https://i.ytimg.com/vi/WoxKbmuCCSw/maxresdefault.jpg",
     "hot": false
+  },
+  {
+    "name": "Imaginary",
+    "alternativeName": "Имаджинариум",
+    "averageTime": 40,
+    "playerCount": {"min": 4, "max": 7},
+    "shortDescription": "Очень простая и очень интересная игра, в которой нужно придумывать ассоциации к необычным картинкам из коробки. ",
+    "fullDescription": "",
+    "rules": "https://www.mosigra.ru/image/data/mosigra.product.other/545/481/imadzhinarium.pdf",
+    "img": "https://yandex-images.clstorage.net/5prwF1173/476499UlI/awU_o43H-KPbZVnmiqBWbHAYTU24r7NrETr8DuudRJr0S908zi0ofrJHKZxk2lznB0RVYiQgu4oU3nIMvVQgeWoIF5_hnrXD93VJs_ukKlgh3NXNBDdbtuGmdPtv5VTz0Gv8IItEgcrTTixdQY50mzMcyWd1hYoX1TOfOawlNUhTbb6K-MPMVxepERbrhC5AGcSB4VDji2LNLuTnsx1IT1jvURxX2PW7A5bsUdH-_E_fvM2z0QmCD3WHi_1AVV0g0wUWHrST2GuPYRni_9yqUC2Qffk47xNOwTasQ7OJ6JOoa4U8gyjZf3-KFPEFfmTbw3zh_7FVcgutU5cZ8FlR0BelOnaM38zXB-H9Yn8IcnilsEHFDP8varXqoAO3RQx3IGdZ1MswWZfHmmQl6UrAR8so9ftd0YbzNRfPScg1Rdh7WaKibGuwa88dPR4PqEpEoWStYSjnL8axXvi3GyVo32gXtShHnHGLRybcZelSkF8P9O1r1VUSi9Uje-E4BW2k8y3mcui7oPOTuUWei4hqlJHgcYWMA0emDQ7c21_NwFNoV_WEq6TFfwfuWAEZWsgbH2x15yXx4gdBG0NRJAXBKD8VOtrY79wr01FFZk-U9hTZBDkBCP87tukWbBv7LchPkKeBPEtQIZd3RtidxarQs8vwSbvRTZbfGes7iShFNYC3zWrSEFskI5OlEean1CLIZWQh9TRfP7I1RvxLw7kYA3i_gahbNCG7504UWZXerG_z5GW3dQm-c327B3ngQU3UX_nidvCnpCMHsb0i6wzabFl0-Wmwj4NquaIs20MZaG-A7_U4D1Blp-O6JNGhXjALs2TVU-XhwpfB14MJNIE5WD8BtuacXyxHl431_k_Q3vSVHD2RiPczMh1GOFtvuTDvjEuNMNNIVevzUmiBsdKsGyOY6ZdZxYZ7LcePaWTNWRT7EdbyeF-8V0edgbrXfHbEEUQBDbgjm9pl0shrS0X8",
+    "hot": false
   }
 
 

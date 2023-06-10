@@ -11,10 +11,4 @@ import {Observable} from "rxjs";
 export class AppComponent {
   title = 'angular-table-games';
 
-  games$: Observable<Game[]>;
-
-  constructor(private gameService: GameService) {
-
-    this.games$ = this.gameService.getAll();
-  }
 }

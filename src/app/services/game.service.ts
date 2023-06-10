@@ -16,4 +16,16 @@ export class GameService {
         map((value) => Game.fromJsonArray(value))
       )
   }
+
+  getGame(name: string) : Observable<Game>{
+
+    const g = data.find((value) => value.name == name);
+
+    if (g){
+      return of(new Game(g))
+    }
+
+    throw new Error('Can\'t find game with this name');
+
+  }
 }
